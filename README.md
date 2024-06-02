@@ -2,15 +2,14 @@
 Git workflow demo
 
 
-feature branch 
+release branch 
 
 ```python
 # import all the tools you need
 import arcpy
 
 # going to be my master piece
-print("Hello Syntax error")
+print("Hello World")
 ```
 
-Another edit...
-And another one... 
+too bad had to do another release before production release.
