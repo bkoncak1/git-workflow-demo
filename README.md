@@ -9,7 +9,7 @@ feature branch
 import arcpy
 
 # going to be my master piece
-print("Hello Syntax error)
+print("Hello Syntax error")
 ```
 
 Another edit...
