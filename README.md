@@ -2,7 +2,7 @@
 Git workflow demo
 
 
-release branch 
+edit op mijn release branch
 
 ```python
 # import all the tools you need
